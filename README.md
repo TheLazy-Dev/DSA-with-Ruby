@@ -1,7 +1,7 @@
 # DSA-With-Ruby
 ==============
 
-A collection of data structures in Ruby, I amde to learn Ruby in short time.
+A collection of data structures in Ruby, I made to learn Ruby in short time.
 
 ## List of data structures
 
