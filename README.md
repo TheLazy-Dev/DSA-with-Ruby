@@ -1,4 +1,4 @@
-datastructures
+# DSA-With-Ruby
 ==============
 
 A collection of data structures in Ruby, I amde to learn Ruby in short time.
